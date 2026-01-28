@@ -34,7 +34,7 @@ python --version
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/dtc-off-tool.git
+git clone https://github.com/andyjamesf/EDC15P-DTC-off-Tool.git
 cd dtc-off-tool
 ```
 No additional Python packages are required.
