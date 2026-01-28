@@ -43,10 +43,10 @@ No additional Python packages are required.
 
 ## How to Use
 
-1. Place your ECU `.bin` file in the **same directory** as `dtc_off.py`
+1. Place your ECU `.bin` file in the **same directory** as `EDC15P-DTC-off-Tool`
 2. Run the tool:
 ```bash
-python dtc_off.py
+python EDC15P-DTC-off-Tool
 ```
 3. Follow the interactive steps:
    - Select the BIN file from the numbered list
